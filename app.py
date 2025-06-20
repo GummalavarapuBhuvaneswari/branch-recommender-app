@@ -67,6 +67,14 @@ st.markdown("""
     <hr style='border: 1px solid #eee;'>
 """, unsafe_allow_html=True)
 
+# 🔒 Disclaimer Message
+st.markdown("""
+<div style='background-color:#fff3cd; padding: 10px; border-radius: 8px; border: 1px solid #ffeeba; margin-top: -15px;'>
+    <strong>⚠️ Note:</strong> This tool is intended for guidance and informational purposes only.
+    The recommendations provided are based on user inputs and do not guarantee career success or outcomes.
+</div>
+""", unsafe_allow_html=True)
+
 # 👤 User Input Section
 with st.container():
     st.markdown("### 🧑‍🎓 Tell us about yourself")
