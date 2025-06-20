@@ -1,0 +1,9 @@
+{
+  "CSE": ["coding", "programming", "logic", "problem solving", "math", "ai", "data"],
+  "ECE": ["electronics", "circuits", "communication", "chips", "signals", "embedded"],
+  "EEE": ["electricity", "power", "circuits", "motors", "control", "renewable", "smart grid"],
+  "Mechanical": ["machines", "design", "thermal", "physics", "cad", "mechanics"],
+  "Civil": ["construction", "structures", "design", "surveying", "geotech", "buildings"],
+  "Chemical": ["chemistry", "reactions", "processing", "plants", "formulas", "chemicals"],
+  "Metallurgy": ["materials", "metals", "alloys", "structure", "processing", "properties"]
+}

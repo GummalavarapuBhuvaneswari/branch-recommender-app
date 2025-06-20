@@ -1,0 +1,446 @@
+{
+  "CSE": {
+    "title": "Computer Science and Engineering",
+    "ideal_for": "Students who love coding, problem-solving, and building intelligent systems.",
+    "future_scope": "High demand in software development, AI, data science, and cybersecurity.",
+    "avg_salary": "₹8-25 LPA",
+    "subjects": [
+      { "name": "Data Structures and Algorithms", "link": "https://www.geeksforgeeks.org/data-structures/" },
+      { "name": "Operating Systems", "link": "https://www.geeksforgeeks.org/operating-systems/" },
+      { "name": "Computer Networks", "link": "https://www.geeksforgeeks.org/computer-network-tutorials/" },
+      { "name": "Artificial Intelligence", "link": "https://www.coursera.org/learn/introduction-to-ai" },
+      { "name": "Database Systems", "link": "https://www.geeksforgeeks.org/dbms/" },
+      { "name": "System Design", "link": "https://github.com/donnemartin/system-design-primer" }
+    ],
+    "skills": [
+      { "name": "Python", "link": "https://www.learnpython.org/" },
+      { "name": "Web Development", "link": "https://developer.mozilla.org/en-US/docs/Learn" },
+      { "name": "Machine Learning", "link": "https://www.coursera.org/learn/machine-learning" },
+      { "name": "Cloud Computing", "link": "https://aws.amazon.com/training/" },
+      { "name": "Git & GitHub", "link": "https://www.codecademy.com/learn/learn-git" },
+      { "name": "Linux", "link": "https://linuxjourney.com/" }
+    ],
+    "job_roles": [
+      {
+        "title": "Software Developer",
+        "description": "Designs, develops, and maintains software applications.",
+        "responsibilities": [
+          "Write and test clean code",
+          "Collaborate with teams and stakeholders",
+          "Debug, optimize and maintain existing systems"
+        ],
+        "avg_salary": "₹8-20 LPA"
+      },
+      {
+        "title": "Data Scientist",
+        "description": "Extracts insights from data using statistical and machine learning techniques.",
+        "responsibilities": [
+          "Clean and analyze large datasets",
+          "Build predictive models",
+          "Visualize and communicate insights"
+        ],
+        "avg_salary": "₹12-25 LPA"
+      },
+      {
+        "title": "AI Engineer",
+        "description": "Builds and deploys intelligent systems using machine learning and deep learning.",
+        "responsibilities": [
+          "Train and fine-tune ML models",
+          "Implement AI workflows and data pipelines",
+          "Deploy AI systems into production environments"
+        ],
+        "avg_salary": "₹10-22 LPA"
+      }
+    ],
+    "youtube": ["https://youtu.be/n4JS0htB8j0"],
+    "resources": [
+      { "name": "freeCodeCamp", "link": "https://www.freecodecamp.org/" },
+      { "name": "MIT OCW CS", "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" }
+    ],
+    "roadmap": "https://roadmap.sh/computer-science"
+  },
+
+  "ECE": {
+    "title": "Electronics and Communication Engineering",
+    "ideal_for": "Students interested in electronics, circuits, embedded systems, and communications.",
+    "future_scope": "Opportunities in telecom, embedded systems, VLSI, IoT, and robotics.",
+    "avg_salary": "₹6-15 LPA",
+    "subjects": [
+      { "name": "Digital Electronics", "link": "https://www.tutorialspoint.com/digital_electronics/index.htm" },
+      { "name": "Analog Circuits", "link": "https://www.geeksforgeeks.org/analog-electronics-basics/" },
+      { "name": "Microprocessors", "link": "https://www.geeksforgeeks.org/microprocessor-tutorial/" },
+      { "name": "Communication Systems", "link": "https://www.geeksforgeeks.org/introduction-to-communication-systems/" },
+      { "name": "VLSI Design", "link": "https://www.vlsisystemdesign.com/" }
+    ],
+    "skills": [
+      { "name": "MATLAB", "link": "https://matlabacademy.mathworks.com/" },
+      { "name": "Embedded Systems", "link": "https://www.coursera.org/learn/introduction-embedded-systems" },
+      { "name": "IoT", "link": "https://www.geeksforgeeks.org/internet-of-things-iot/" },
+      { "name": "PCB Design", "link": "https://www.pcbway.com/blog/" },
+      { "name": "Signal Processing", "link": "https://www.edx.org/course/fundamentals-of-digital-signal-processing" }
+    ],
+    "job_roles": [
+      {
+        "title": "Embedded Systems Engineer",
+        "description": "Designs and develops hardware-software systems for embedded applications.",
+        "responsibilities": [
+          "Work on microcontroller programming",
+          "Design PCBs and embedded circuits",
+          "Develop real-time embedded software"
+        ],
+        "avg_salary": "₹6-12 LPA"
+      },
+      {
+        "title": "VLSI Engineer",
+        "description": "Designs and verifies integrated circuits at the transistor level.",
+        "responsibilities": [
+          "Design RTL using Verilog/VHDL",
+          "Perform timing and layout verification",
+          "Work on FPGA prototyping"
+        ],
+        "avg_salary": "₹8-18 LPA"
+      },
+      {
+        "title": "Telecom Engineer",
+        "description": "Handles installation and maintenance of communication systems.",
+        "responsibilities": [
+          "Configure telecom hardware",
+          "Work with optical fiber systems",
+          "Monitor data networks and signals"
+        ],
+        "avg_salary": "₹5-10 LPA"
+      }
+    ],
+    "youtube": [
+      "https://youtu.be/SQ2OcT1HCZU",
+      "https://youtu.be/lBQ1s22dXAs"
+    ],
+    "resources": [
+      { "name": "Electronics Tutorials", "link": "https://www.electronics-tutorials.ws/" },
+      { "name": "All About Circuits", "link": "https://www.allaboutcircuits.com/" },
+      { "name": "MIT Circuits Course", "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/" }
+    ],
+    "roadmap": "https://bit.ly/ece-roadmap"
+  },
+
+  "EEE": {
+    "title": "Electrical and Electronics Engineering",
+    "ideal_for": "Students passionate about electrical systems, machines, automation, and power distribution.",
+    "future_scope": "High demand in power systems, industrial automation, renewable energy, and robotics.",
+    "avg_salary": "₹6-14 LPA",
+    "subjects": [
+      { "name": "Electrical Machines", "link": "https://www.electrical4u.com/electrical-machines/" },
+      { "name": "Power Systems", "link": "https://www.electrical4u.com/electrical-power-system/" },
+      { "name": "Control Systems", "link": "https://www.geeksforgeeks.org/control-systems/" },
+      { "name": "Switchgear and Protection", "link": "https://circuitdigest.com/tutorial/switchgear-and-protection" },
+      { "name": "Power Electronics", "link": "https://www.tutorialspoint.com/power_electronics/index.htm" }
+    ],
+    "skills": [
+      { "name": "PLC Programming", "link": "https://www.coursera.org/learn/plc-programming" },
+      { "name": "SCADA Systems", "link": "https://www.geeksforgeeks.org/introduction-to-scada-system/" },
+      { "name": "AutoCAD Electrical", "link": "https://www.autodesk.in/products/autocad/included-toolsets/autocad-electrical" },
+      { "name": "MATLAB & Simulink", "link": "https://matlabacademy.mathworks.com/" },
+      { "name": "Industrial Safety Standards", "link": "https://www.osha.gov/" }
+    ],
+    "job_roles": [
+      {
+        "title": "Power Systems Engineer",
+        "description": "Works on generation, transmission, and distribution of electrical power.",
+        "responsibilities": [
+          "Design and maintain power grids",
+          "Analyze load flow and faults",
+          "Ensure system safety and reliability"
+        ],
+        "avg_salary": "₹6-12 LPA"
+      },
+      {
+        "title": "Automation Engineer",
+        "description": "Develops automated control systems using PLC and SCADA.",
+        "responsibilities": [
+          "Program industrial PLCs",
+          "Monitor and control using SCADA",
+          "Maintain production systems"
+        ],
+        "avg_salary": "₹5-11 LPA"
+      },
+      {
+        "title": "Electrical Design Engineer",
+        "description": "Creates and tests electrical circuits and equipment.",
+        "responsibilities": [
+          "Design switchgear layouts",
+          "Use CAD tools for electrical schematics",
+          "Test and debug hardware"
+        ],
+        "avg_salary": "₹6-13 LPA"
+      }
+    ],
+    "youtube": [
+      "https://youtu.be/xoiaIwIMOu0"
+    ],
+    "resources": [
+      { "name": "Electrical4U", "link": "https://www.electrical4u.com/" },
+      { "name": "All About Circuits", "link": "https://www.allaboutcircuits.com/" },
+      { "name": "MIT OpenCourseware - Circuits", "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" }
+    ],
+    "roadmap": "https://bit.ly/eee-roadmap"
+  }
+,
+
+  "Mechanical": {
+    "title": "Mechanical Engineering",
+    "ideal_for": "Students interested in machines, thermodynamics, automotive, robotics, and manufacturing.",
+    "future_scope": "Opportunities in design, aerospace, energy, robotics, and manufacturing industries.",
+    "avg_salary": "₹5-12 LPA",
+    "subjects": [
+      { "name": "Thermodynamics", "link": "https://www.khanacademy.org/science/physics/thermodynamics" },
+      { "name": "Fluid Mechanics", "link": "https://nptel.ac.in/courses/112105183" },
+      { "name": "Heat Transfer", "link": "https://nptel.ac.in/courses/112105182" },
+      { "name": "Machine Design", "link": "https://www.geeksforgeeks.org/design-of-machine-elements/" },
+      { "name": "Kinematics and Dynamics", "link": "https://nptel.ac.in/courses/112104121" },
+      { "name": "Manufacturing Technology", "link": "https://nptel.ac.in/courses/112107145" }
+    ],
+    "skills": [
+      { "name": "CAD Design (AutoCAD)", "link": "https://www.autodesk.in/products/autocad/overview" },
+      { "name": "SolidWorks", "link": "https://www.solidworks.com/" },
+      { "name": "ANSYS Simulation", "link": "https://www.ansys.com/" },
+      { "name": "MATLAB", "link": "https://matlabacademy.mathworks.com/" },
+      { "name": "Robotics Basics", "link": "https://www.coursera.org/specializations/robotics" },
+      { "name": "Finite Element Analysis", "link": "https://www.udemy.com/course/fea-structural-analysis-simulation-solidworks/" }
+    ],
+    "job_roles": [
+      {
+        "title": "Design Engineer",
+        "description": "Designs mechanical components, machinery, and systems.",
+        "responsibilities": [
+          "Use CAD tools to design products",
+          "Simulate and optimize components",
+          "Collaborate with manufacturing teams"
+        ],
+        "avg_salary": "₹5-10 LPA"
+      },
+      {
+        "title": "Thermal Engineer",
+        "description": "Focuses on heating/cooling systems and energy efficiency.",
+        "responsibilities": [
+          "Analyze heat transfer and fluid flow",
+          "Optimize HVAC and cooling systems",
+          "Develop energy-efficient designs"
+        ],
+        "avg_salary": "₹6-12 LPA"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "description": "Improves and manages production processes.",
+        "responsibilities": [
+          "Set up production lines",
+          "Monitor quality and efficiency",
+          "Integrate automation tools"
+        ],
+        "avg_salary": "₹5-9 LPA"
+      }
+    ],
+    "youtube": [
+      "https://youtu.be/lQzFxV2vPy8"
+    ],
+    "resources": [
+      { "name": "MIT OCW - Mechanical", "link": "https://ocw.mit.edu/courses/mechanical-engineering/" },
+      { "name": "NPTEL Mechanical Courses", "link": "https://nptel.ac.in/course.html?discipline=Mechanical" },
+      { "name": "Engineering Toolbox", "link": "https://www.engineeringtoolbox.com/" }
+    ],
+    "roadmap": "https://bit.ly/mech-roadmap"
+  },
+  "Civil": {
+    "title": "Civil Engineering",
+    "ideal_for": "Students who want to build infrastructure like buildings, bridges, and roads.",
+    "future_scope": "Huge demand in construction, planning, environmental, and structural domains.",
+    "avg_salary": "₹4-10 LPA",
+    "subjects": [
+      { "name": "Structural Engineering", "link": "https://theconstructor.org/structural-engg/" },
+      { "name": "Geotechnical Engineering", "link": "https://theconstructor.org/geotechnical/" },
+      { "name": "Surveying", "link": "https://theconstructor.org/surveying/" },
+      { "name": "Environmental Engineering", "link": "https://theconstructor.org/environmental-engineering/" },
+      { "name": "Transportation Engineering", "link": "https://theconstructor.org/transportation/" },
+      { "name": "Construction Management", "link": "https://www.classcentral.com/course/nptel-project-management-for-construction-professionals-22679" }
+    ],
+    "skills": [
+      { "name": "AutoCAD Civil", "link": "https://www.autodesk.in/products/autocad/overview" },
+      { "name": "STAAD.Pro", "link": "https://www.bentley.com/software/staad/" },
+      { "name": "GIS Mapping", "link": "https://www.esri.com/en-us/what-is-gis/overview" },
+      { "name": "Revit Architecture", "link": "https://www.autodesk.in/products/revit/overview" },
+      { "name": "Quantity Surveying", "link": "https://www.udemy.com/course/quantity-surveying-basics/" },
+      { "name": "Primavera", "link": "https://www.oracle.com/industries/construction-engineering/primavera-p6-professional-project-management/" }
+    ],
+    "job_roles": [
+      {
+        "title": "Structural Engineer",
+        "description": "Designs and assesses the safety and stability of buildings and infrastructure.",
+        "responsibilities": [
+          "Analyze load conditions and materials",
+          "Design structural frameworks",
+          "Ensure buildings comply with codes"
+        ],
+        "avg_salary": "₹5-10 LPA"
+      },
+      {
+        "title": "Site Engineer",
+        "description": "Oversees on-site construction and coordinates with contractors.",
+        "responsibilities": [
+          "Monitor daily construction progress",
+          "Interpret technical drawings",
+          "Coordinate labor and materials"
+        ],
+        "avg_salary": "₹4-8 LPA"
+      },
+      {
+        "title": "Urban Planner",
+        "description": "Plans land use in cities and towns for housing, roads, and public utilities.",
+        "responsibilities": [
+          "Prepare site layout plans",
+          "Conduct land use analysis",
+          "Coordinate with local authorities"
+        ],
+        "avg_salary": "₹6-12 LPA"
+      }
+    ],
+    "youtube": [
+      "https://youtu.be/dOMYhl6RUHw"
+    ],
+    "resources": [
+      { "name": "MIT OCW - Civil", "link": "https://ocw.mit.edu/courses/civil-and-environmental-engineering/" },
+      { "name": "NPTEL Civil Courses", "link": "https://nptel.ac.in/course.html?discipline=Civil" },
+      { "name": "TheConstructor", "link": "https://theconstructor.org/" }
+    ],
+    "roadmap": "https://bit.ly/civil-roadmap"
+  }
+,
+
+  "Chemical": {
+    "title": "Chemical Engineering",
+    "ideal_for": "Students curious about chemistry, industrial processes, and energy systems.",
+    "future_scope": "Jobs in oil & gas, pharma, food processing, energy, and environmental sectors.",
+    "avg_salary": "₹5-11 LPA",
+    "subjects": [
+      { "name": "Chemical Process Calculations", "link": "https://www.chegg.com/homework-help/chemical-process-calculations-tutorial" },
+      { "name": "Heat Transfer", "link": "https://www.coursera.org/learn/fundamentals-of-heat-transfer" },
+      { "name": "Mass Transfer", "link": "https://nptel.ac.in/courses/103103035" },
+      { "name": "Reaction Engineering", "link": "https://nptel.ac.in/courses/103103023" },
+      { "name": "Process Control", "link": "https://www.coursera.org/learn/process-control" }
+    ],
+    "skills": [
+      { "name": "Aspen Plus", "link": "https://www.aspentech.com/en/products/engineering/aspen-plus" },
+      { "name": "HYSYS Simulation", "link": "https://www.udemy.com/course/hysys-chemical-engineering-simulation/" },
+      { "name": "Process Design", "link": "https://www.sciencedirect.com/journal/chemical-engineering-and-processing" },
+      { "name": "Safety & HAZOP", "link": "https://www.osha.gov/" },
+      { "name": "Industrial Chemistry", "link": "https://www.khanacademy.org/science/chemistry" }
+    ],
+    "job_roles": [
+      {
+        "title": "Process Engineer",
+        "description": "Optimizes chemical manufacturing and industrial plant operations.",
+        "responsibilities": [
+          "Design and analyze chemical processes",
+          "Simulate plant performance",
+          "Improve energy efficiency"
+        ],
+        "avg_salary": "₹6-12 LPA"
+      },
+      {
+        "title": "Chemical Plant Engineer",
+        "description": "Monitors plant operations, safety, and productivity.",
+        "responsibilities": [
+          "Ensure smooth plant functioning",
+          "Check compliance with standards",
+          "Troubleshoot operational issues"
+        ],
+        "avg_salary": "₹5-10 LPA"
+      },
+      {
+        "title": "Energy Systems Engineer",
+        "description": "Develops renewable and alternative energy systems using chemical principles.",
+        "responsibilities": [
+          "Design clean energy systems",
+          "Work with solar, biofuel, and hydrogen tech",
+          "Optimize energy efficiency"
+        ],
+        "avg_salary": "₹6-14 LPA"
+      }
+    ],
+    "youtube": [
+      "https://youtu.be/XU9TiPctD0s"
+    ],
+    "resources": [
+      { "name": "AIChE Academy", "link": "https://www.aiche.org/academy" },
+      { "name": "MIT ChemE", "link": "https://cheme.mit.edu/undergraduate/" },
+      { "name": "NPTEL Chemical Courses", "link": "https://nptel.ac.in/course.html?discipline=Chemical" }
+    ],
+    "roadmap": "https://bit.ly/chem-roadmap"
+  },
+  
+  "Metallurgical": {
+    "title": "Metallurgical Engineering",
+    "ideal_for": "Students who enjoy studying metals, alloys, material properties, and failure analysis.",
+    "future_scope": "Key roles in aerospace, automotive, defense, manufacturing, R&D, and material design sectors.",
+    "avg_salary": "₹5-10 LPA",
+    "subjects": [
+      { "name": "Physical Metallurgy", "link": "https://www.sciencedirect.com/topics/engineering/physical-metallurgy" },
+      { "name": "Extractive Metallurgy", "link": "https://www.britannica.com/science/extractive-metallurgy" },
+      { "name": "Mechanical Metallurgy", "link": "https://www.cambridge.org/core/books/mechanical-metallurgy/6E6F34B02A4E7E3EC5F8F6C0DC6D5DE9" },
+      { "name": "Phase Diagrams", "link": "https://matmatch.com/resources/blog/what-are-phase-diagrams/" },
+      { "name": "Thermodynamics of Materials", "link": "https://nptel.ac.in/courses/113105028" }
+    ],
+    "skills": [
+      { "name": "Material Characterization", "link": "https://www.twi-global.com/technical-knowledge/job-knowledge/testing-of-materials-057" },
+      { "name": "Simulation (ThermoCalc)", "link": "https://thermocalc.com/" },
+      { "name": "Alloy Design", "link": "https://matmatch.com/resources/blog/introduction-to-alloy-design/" },
+      { "name": "Welding Technology", "link": "https://www.lincolnelectric.com/en/education-center" },
+      { "name": "Failure Analysis", "link": "https://www.asm.org/" }
+    ],
+    "job_roles": [
+      {
+        "title": "Materials Engineer",
+        "description": "Designs and develops new materials or improves existing ones.",
+        "responsibilities": [
+          "Test material properties",
+          "Recommend materials for specific applications",
+          "Conduct failure analysis"
+        ],
+        "avg_salary": "₹6-10 LPA"
+      },
+      {
+        "title": "Metallurgical Engineer",
+        "description": "Works on extraction, refining, alloying and fabrication of metals.",
+        "responsibilities": [
+          "Extract metals from ores",
+          "Optimize production processes",
+          "Ensure material performance under stress"
+        ],
+        "avg_salary": "₹5-9 LPA"
+      },
+      {
+        "title": "Welding Engineer",
+        "description": "Oversees welding processes, safety, and materials compatibility.",
+        "responsibilities": [
+          "Choose welding techniques for specific joints",
+          "Ensure weld quality and safety",
+          "Collaborate with design teams"
+        ],
+        "avg_salary": "₹6-11 LPA"
+      }
+    ],
+    "youtube": [
+      "https://youtu.be/w0IfsWdJotA"
+    ],
+    "resources": [
+      { "name": "MIT DMSE", "link": "https://dmse.mit.edu/" },
+      { "name": "TWI Materials Testing", "link": "https://www.twi-global.com/" },
+      { "name": "Materials Today", "link": "https://www.materialstoday.com/" },
+      { "name": "ASM International", "link": "https://www.asminternational.org/home" }
+    ],
+    "roadmap": "https://bit.ly/meta-roadmap"
+  }
+
+
+}
+
+
+
