@@ -10,8 +10,8 @@ import os
 load_dotenv()
 
 # 👉 API Configuration
-genai.configure(api_key=os.getenv("AIzaSyBX3L-Nh0bnKo9EcdYLPsL7au3yvBNhTPo"))
-model = genai.GenerativeModel(model_name="models/gemini-1.5-flash")
+genai.configure(api_key=os.getenv("AIzaSyCScPGMp7JzCtSGFs-Ofn138O9KktSS-k4"))
+model = genai.GenerativeModel(model_name="models/gemini-2.5-flash")
 
 # 👉 Load data
 with open("branch_data.json", "r") as f:
